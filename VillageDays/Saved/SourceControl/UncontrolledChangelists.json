@@ -5,7 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/GitHub/VillageGame/VillageDays/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/GitHub/VillageGame/VillageDays/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/M_Body.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/M_Hat.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/SKM_Villager.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y2/BVOTAVD3R1F02VFGM7EZE7.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/SKM_Villager_PhysicsAsset.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/SKM_Villager_Skeleton.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Textures/T_Villager.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Textures/T_Villager_MRSS.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_Anim.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_Anim_1D.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Attack/A_Attack.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Fall_Loop.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Idle.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Jump.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Land.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Walk.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_BP_Anim.uasset"
 			]
 		}
 	]
