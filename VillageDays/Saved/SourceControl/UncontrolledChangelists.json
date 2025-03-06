@@ -10,12 +10,10 @@
 				"E:/GitHub/VillageGame/VillageDays/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/M_Hat.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/SKM_Villager.uasset",
-				"E:/GitHub/VillageGame/VillageDays/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y2/BVOTAVD3R1F02VFGM7EZE7.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/SKM_Villager_PhysicsAsset.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/SKM_Villager_Skeleton.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Textures/T_Villager.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Textures/T_Villager_MRSS.uasset",
-				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_Anim.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_Anim_1D.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Attack/A_Attack.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Fall_Loop.uasset",
@@ -23,7 +21,18 @@
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Jump.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Land.uasset",
 				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/A_Walk.uasset",
-				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_BP_Anim.uasset"
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_BP_Anim.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/BluePrints/BP_EnemyAI.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/P7/SXNNX7WPI6V5EEWDO2F9TL.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8X/S2XAXO6VKL8ZGPJ1ZC45R6.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/37/1W6MNM8W1WCWCPALDQF8VL.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Attack/Attack_Montage.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Fab/Axe_With_Textures/Axe.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Fab/Axe_With_Textures/Material_27.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Fab/Axe_With_Textures/Material_39.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y2/BVOTAVD3R1F02VFGM7EZE7.uasset",
+				"E:/GitHub/VillageGame/VillageDays/Content/Characters/Villager/Animations/Villager_Anim.uasset"
 			]
 		}
 	]
